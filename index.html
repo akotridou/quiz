@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BrainRush</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>BrainRush</h1>
+    <p>This is your moment to test your knowledge in different categories and have fun! Feel free to explore.</p>
+
+    <h2>Choose a Category</h2>
+
+   <div class="categories">
+         <button type="button" id="cybersecurity">
+          Cybersecurity
+        </button>
+         <button type="button" id="programming">
+          Programming
+        </button>
+        <button type="button" id="movies-series">
+           Movies & Series
+       </button>
+        <button type="button" id="general">
+           General Knowledge
+       </button>
+       <button type="button" id="music">
+          Music
+       </button>
+       <button type="button" id="random">
+         Random Questions
+      </button>
+   </div>
+   
+    <div id="quiz-container"></div>
+   
+   
+  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+  <script>
+    AOS.init({
+      duration: 800,
+      once: false,      
+      mirror: true,     
+      offset: 100
+  });
+  </script>
+
+  <script src="script.js"></script>
+
+</body>
+</html>
