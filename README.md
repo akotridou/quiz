@@ -30,5 +30,5 @@ BrainRush is an interactive quiz application where users can test their knowledg
   
 ## 🌐 Live Demo
 
-[View BrainRush Live Demo](ΤΟ-LINK-ΣΟΥ)
+[View BrainRush Live Demo](https://akotridou.github.io/quiz/)
 
