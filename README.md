@@ -2,6 +2,9 @@
 
 BrainRush is an interactive quiz application where users can test their knowledge across different categories.
 
+## 🌐 Live Demo
+[View BrainRush Live Demo](https://akotridou.github.io/quiz/)
+
 ## 🚀 Features
 
 - 🧠 Multiple quiz categories
@@ -10,8 +13,13 @@ BrainRush is an interactive quiz application where users can test their knowledg
 - 🏆 Final score and performance message
 - 🔄 Different questions for each category
 - ⚡ Interactive question-by-question gameplay
-- 🎨 Responsive and modern interface
-- ✨ AOS animations
+
+
+## 🛠️ Technologies
+
+- HTML
+- CSS
+- JavaScript
 
 ## 📚 Categories
 
@@ -22,13 +30,6 @@ BrainRush is an interactive quiz application where users can test their knowledg
 - Music
 - Random Questions
 
-## 🛠️ Technologies
-
-- HTML5
-- CSS3
-- JavaScript
   
-## 🌐 Live Demo
 
-[View BrainRush Live Demo](https://akotridou.github.io/quiz/)
 
